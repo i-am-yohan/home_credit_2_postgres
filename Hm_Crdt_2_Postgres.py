@@ -323,7 +323,7 @@ if __name__ == '__main__':
     CSV_2_SQL_IO(r'bureau_balance.csv', 'hm_crdt.raw_in.bureau_balance')
     CSV_2_SQL_IO(r'credit_card_balance.csv', 'hm_crdt.raw_in.credit_card_balance')
     CSV_2_SQL_IO(r'installments_payments.csv', 'hm_crdt.raw_in.installments_payments_temp')
-    CSV_2_SQL_IO(r'POS_CASH_Balance.csv', 'hm_crdt.raw_in.POS_CASH_Balance')
+    CSV_2_SQL_IO(r'POS_CASH_Balance.csv', 'hm_crdt.raw_in.POS_CASH_balance')
     CSV_2_SQL_IO(r'previous_application.csv', 'hm_crdt.raw_in.previous_application')
 
 
